@@ -1,0 +1,62 @@
+#laikagen1{
+width:33.33%;
+float:right;
+
+}
+#laikagen2{
+width:33.33%;
+float:right;
+}
+#laikagen3{
+width:33.34%;
+float:right;
+}
+
+#laikatree1{
+width:33.34%;
+height:1px;
+float:right;
+
+
+}
+#laikatree2{
+width:16.67%;
+height:1px;
+float:right;
+
+
+}
+
+.laikagen3m, .laikagen2m, .laikagen1m{
+height:50px;
+background:blue;
+color:#fff;
+display: flex;
+align-items:center;
+padding-left:20px;
+}
+
+.laikagen3f, .laikagen2f, .laikagen1f{
+height:50px;
+background:pink;
+display: flex;
+align-items:center;
+padding-left:20px;
+}
+.laikagen3f a, .laikagen2f a, .laikagen1f a{
+color:#000;
+text-decoration:underline;
+}
+.laikagen3m a, .laikagen2m a, .laikagen1m a{
+color:#fff;
+text-decoration:underline;
+}
+.laikagen2m, .laikagen2f{
+margin-top:25px;
+margin-bottom:50px;
+}
+
+.laikagen1m, .laikagen1f{
+margin-top:75px;
+margin-bottom:150px;
+}
